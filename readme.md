@@ -82,12 +82,13 @@ python $calistiralacak_klasor/main.py
 Aşağıda proje çalıştırıldığında elde edilen bazı görseller yer almaktadır:
 
 ### 📌 Örnek 1: Drone Rota Görselleştirmesi
+![Figure_1](https://github.com/user-attachments/assets/1a809b3e-c017-4c94-a3ff-592fd1c2bb1e)
+![Figure_2](https://github.com/user-attachments/assets/8cf5d2fe-f67c-4a92-9d3e-d573c37b40a6)
 
-<img src="images/rota_gorsel_1.png" alt="Drone rotaları" width="600"/>
 
-### 📌 Örnek 2: Görev Atamaları ve Performans Grafiği
+### 📌 Örnek 2: Kalkış Noktasında Teslim Almalı Drone Rota Görselleştirmesi
 
-<img src="images/performans_analizi.png" alt="Drone görev analizleri" width="600"/>
+![Figure_3](https://github.com/user-attachments/assets/abc3096f-1f04-4781-a65a-f9d51e4d15d4)
 
 ---
 
@@ -186,11 +187,13 @@ Below are some sample outputs generated during simulation:
 
 ### 📌 Example 1: Drone Route Visualization
 
-<img src="images/rota_gorsel_1.png" alt="Drone route visualization" width="600"/>
 
-### 📌 Example 2: Assignment & Performance Analysis
+![Figure_1](https://github.com/user-attachments/assets/1a809b3e-c017-4c94-a3ff-592fd1c2bb1e)  
+![Figure_2](https://github.com/user-attachments/assets/8cf5d2fe-f67c-4a92-9d3e-d573c37b40a6)
 
-<img src="images/performans_analizi.png" alt="Task assignment performance" width="600"/>
+### 📌Example 2: Drone Route with Pickup at Departure Point
+
+![Figure_3](https://github.com/user-attachments/assets/abc3096f-1f04-4781-a65a-f9d51e4d15d4)
 
 ---
 
