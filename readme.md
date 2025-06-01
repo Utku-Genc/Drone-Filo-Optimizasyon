@@ -91,6 +91,20 @@ Aşağıda proje çalıştırıldığında elde edilen bazı görseller yer alma
 ![Figure_3](https://github.com/user-attachments/assets/abc3096f-1f04-4781-a65a-f9d51e4d15d4)
 
 ---
+## 📝 Proje Raporu
+
+Proje raporuna [Rapor](https://github.com/user-attachments/files/19960362/yazlab_rapor.pdf) linkinden erişebilirsiniz.
+
+---
+
+## 📬 İletişim
+
+📧 [Ahmet Efe Tosun](https://github.com/AhmetEfeTosun)   - ahefto@gmail.com  
+📬 [Umut Gulfidan](https://github.com/umutgulfidan) - umutgulfidan41@gmail.com  
+🖥️ [Utku Genç](https://github.com/Utku-Genc) - utkugenc2003@gmail.com
+
+---
+
 
 ## 📚 Lisans
 
@@ -194,6 +208,19 @@ Below are some sample outputs generated during simulation:
 ### 📌Example 2: Drone Route with Pickup at Departure Point
 
 ![Figure_3](https://github.com/user-attachments/assets/abc3096f-1f04-4781-a65a-f9d51e4d15d4)
+
+---
+## 📝 Project Report 
+
+Proje raporuna [Rapor](https://github.com/user-attachments/files/19960362/yazlab_rapor.pdf) linkinden erişebilirsiniz.
+
+---
+
+## 📬 Contact
+
+📧 [Ahmet Efe Tosun](https://github.com/AhmetEfeTosun)   - ahefto@gmail.com  
+📬 [Umut Gulfidan](https://github.com/umutgulfidan) - umutgulfidan41@gmail.com  
+🖥️ [Utku Genç](https://github.com/Utku-Genc) - utkugenc2003@gmail.com
 
 ---
 
